@@ -1,1 +1,1 @@
-# desencriptador
+# desencriptador y encriptador
